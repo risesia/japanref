@@ -1,2 +1,2 @@
 # japanref
-Hiragana and katakana reference with simple UI.
+Hiragana reference with simple UI.
