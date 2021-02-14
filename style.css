@@ -126,6 +126,11 @@ body {
     text-transform: capitalize;
     font-family: 'D-DIN-Bold';
 }
+img {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+}
 .main-section {
     display: flex;
     flex-direction: column;
