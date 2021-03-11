@@ -1,5 +1,5 @@
 # japanref
-<img src="../japanref/japanref.png" alt="japanref-logo">
+<img src="../japanref.png" alt="japanref-logo">
 <p>
     Hiragana reference with simple UI.
 </p>
